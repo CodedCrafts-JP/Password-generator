@@ -40,3 +40,4 @@ while x < number:
 final_password = ''.join(password)
 print("Here")
 print(f"Your generated password is: {final_password}")
+print("Thank you")
